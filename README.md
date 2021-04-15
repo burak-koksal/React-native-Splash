@@ -1,8 +1,18 @@
 # React-native-Splash
 
-Project start 
+Getting Started
 
-1- yarn install 
+1-Clone the repo
 
-2- yarn android 
+git clone https://github.com/burak-koksal/React-native-Splash.git
+
+2- Install yarn packages
+
+yarn install
+
+3- Project start
+
+yarn android
+
+
 
