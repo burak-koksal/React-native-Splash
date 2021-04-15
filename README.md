@@ -16,3 +16,4 @@ yarn android
 
 
 
+<div class="highlight highlight-source-shell"><pre>npm install npm@latest -g</pre></div>
