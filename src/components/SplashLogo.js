@@ -4,7 +4,7 @@ import {StyleSheet, SafeAreaView, Text} from 'react-native';
 //lottie
 import LottieView from 'lottie-react-native';
 
-const SplashGif = require('../assets/splash-screen.json');
+const SplashGif = require('../assets/Splash-logo.json');
 
 const SplashLogo = () => {
   return(
@@ -16,8 +16,8 @@ const SplashLogo = () => {
 
 const styles = StyleSheet.create({
   lottieView: {
-    height: '100%',
-    width: '100%'
+    height: 150,
+    width: 150
   },
 });
 
